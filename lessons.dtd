@@ -1,0 +1,7 @@
+﻿<!ELEMENT Schedule (lesson)+>
+<!ELEMENT lesson (course, dateFrom,dateTo,teacher,time)>
+<!ELEMENT course (#PCDATA)>
+<!ELEMENT dateFrom (#PCDATA)>
+<!ELEMENT dateTo (#PCDATA)>
+<!ELEMENT teacher (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
