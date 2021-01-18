@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<myns:schedule xmlns:myns="http://www.itmo.ru/xml/lessons" >
+	<myns:lesson id="eng">
+		<myns:course>Английский язык</myns:course>
+		<myns:dateFrom>01.09.2020</myns:dateFrom>
+		<myns:dateTo>12.12.2021</myns:dateTo>
+		<myns:teacher>Алексей Игоревич А.</myns:teacher>
+		<myns:time>10:00-12:00</myns:time>
+		
+	</myns:lesson>
+	<myns:lesson id="esp">
+		<myns:course>Испанский язык</myns:course>
+		<myns:dateFrom>16.09.2020</myns:dateFrom>
+		<myns:dateTo>19.12.2021</myns:dateTo>
+		<myns:teacher>Павел Николаевич Д.</myns:teacher>
+		<myns:time>12:00-14:00</myns:time>
+		
+	</myns:lesson>
+	<myns:lesson id="dt">
+		<myns:course>Немецкий язык</myns:course>
+		<myns:dateFrom>01.09.2020</myns:dateFrom>
+		<myns:dateTo>20.12.2021</myns:dateTo>
+		<myns:teacher>Ольга Викторовна П.</myns:teacher>
+		<myns:time>15:00-17:00</myns:time>
+		
+	</myns:lesson>
+</myns:schedule>

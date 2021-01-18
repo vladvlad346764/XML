@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<schedule>
+	<lesson id="eng">
+		<course>Английский язык</course>
+		<dateFrom>01.09.2020</dateFrom>
+		<dateTo>12.12.2021</dateTo>
+		<teacher>Алексей Игоревич А.</teacher>
+		<time>10:00-12:00</time>
+		
+	</lesson>
+	<lesson id="esp">
+		<course>Испанский язык</course>
+		<dateFrom>16.09.2020</dateFrom>
+		<dateTo>19.12.2021</dateTo>
+		<teacher>Павел Николаевич Д.</teacher>
+		<time>12:00-14:00</time>
+		
+	</lesson>
+	<lesson id="dt">
+		<course>Немецкий язык</course>
+		<dateFrom>01.09.2020</dateFrom>
+		<dateTo>20.12.2021</dateTo>
+		<teacher>Ольга Викторовна П.</teacher>
+		<time>15:00-17:00</time>
+		
+	</lesson>
+</schedule>
